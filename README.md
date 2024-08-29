@@ -3,7 +3,7 @@
 ---
 **About me**
 
-- 🎓 B.C.Sc (Software Engineering Specialize) [University Of Computer Studies,Yangon]
+- 🎓 Bachelor of Computer Science (B.C.Sc) - University Of Computer Studies,Yangon [https://www.ucsy.edu.mm/]
 - 💼 Software Engineer at GIC-JP Myanmar. [https://gicjp.com/]
 - 💼 Former Software Engineer at ACE Data System. [https://acedatasystems.com/]
 - 💼 Former System Engineer at Myanmar Payment Solution Service.[https://www.mpss.com.mm/]
