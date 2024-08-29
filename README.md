@@ -5,7 +5,9 @@
 
 - 🎓 B.C.Sc (Software Engineering Specialize) [University Of Computer Studies,Yangon]
 - 💼 Software Engineer at GIC-JP Myanmar. [https://gicjp.com/]
-
+- 💼 Former Software Engineer at ACE Data System. [https://acedatasystems.com/]
+- 💼 Former System Engineer at Myanmar Payment Soluction Service.[https://www.mpss.com.mm/]
+  
 -----
 💻 Main Tech Stack
 
